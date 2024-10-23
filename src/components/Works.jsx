@@ -47,14 +47,14 @@ const Works = () => {
               <span className=' text-lg font-bold text-white tracking-wider'>
                 CBT Application
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center'>A Sample web application built with Angular</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a target="_blank" href="https://angular-practise-1.onrender.com/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
-                  </button>
+                  </button
                 </a>
-                <a href='/'>
+                <a target="_blank" href="https://github.com/phadnisanand/angular_practise">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
