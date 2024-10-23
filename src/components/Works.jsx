@@ -52,7 +52,7 @@ const Works = () => {
                 <a target="_blank" href="https://angular-practise-1.onrender.com/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
-                  </button
+                  </button>
                 </a>
                 <a target="_blank" href="https://github.com/phadnisanand/angular_practise">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
