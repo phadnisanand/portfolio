@@ -71,7 +71,7 @@ const Works = () => {
               <span className=' text-lg font-bold text-white tracking-wider'>
                 Sample Es6 application
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center'>A Sample web application built with ES6</p>
               <div className='pt-8 text-center'>
                 <a href='https://es6demo.netlify.app/' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
