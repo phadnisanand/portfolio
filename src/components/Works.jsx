@@ -45,7 +45,7 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Angular Sample application
               </span>
               <p className='text-center'>A Sample web application built with Angular</p>
               <div className='pt-8 text-center'>
@@ -69,16 +69,16 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Sample Es6 application
               </span>
               <p className='text-center'>A CBT web application built with React and Mongodb</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://es6demo.netlify.app/' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/phadnisanand/es6_practicals'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
