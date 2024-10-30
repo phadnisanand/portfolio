@@ -93,7 +93,7 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Sample Typescript application
               </span>
               <p className='text-center'>A web application built with Webpack and Typescript</p>
               <div className='pt-8 text-center'>
@@ -117,7 +117,7 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Sample Javascript Application
               </span>
               <p className='text-center'>A web application built with Javascript</p>
               <div className='pt-8 text-center'>
