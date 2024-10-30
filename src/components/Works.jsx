@@ -95,11 +95,11 @@ const Works = () => {
               <span className=' text-lg font-bold text-white tracking-wider'>
                 CBT Application
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center'>A web application built with Webpack and Typescript</p>
               <div className='pt-8 text-center'>
                 <a href='https://typescriptpractise.netlify.app/' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Webpack Typescript application
+                    Demo
                   </button>
                 </a>
                 <a href='https://github.com/phadnisanand/webpack_typescript' target="_blank">
@@ -119,11 +119,11 @@ const Works = () => {
               <span className=' text-lg font-bold text-white tracking-wider'>
                 CBT Application
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center'>A web application built with Javascript</p>
               <div className='pt-8 text-center'>
                 <a href='https://javascript-practise-anand.netlify.app/' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Javascript application
+                    Demo
                   </button>
                 </a>
                 <a href='https://github.com/phadnisanand/javascript_practise' target="_blank">
