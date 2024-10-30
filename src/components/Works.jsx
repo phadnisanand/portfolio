@@ -97,12 +97,12 @@ const Works = () => {
               </span>
               <p className='text-center'>A CBT web application built with React and Mongodb</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://typescriptpractise.netlify.app/' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
+                    Webpack Typescript application
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/phadnisanand/webpack_typescript' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -121,12 +121,12 @@ const Works = () => {
               </span>
               <p className='text-center'>A CBT web application built with React and Mongodb</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://javascript-practise-anand.netlify.app/' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
+                    Javascript application
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/phadnisanand/javascript_practise' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
