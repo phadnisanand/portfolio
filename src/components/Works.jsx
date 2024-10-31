@@ -11,7 +11,7 @@ const Works = () => {
           </p>
           <p className='py-6 text-2xl'>Check out some of my most recent work</p>
         </div>
-{/* Container */}
+			{/* Container */}
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
             {/* Grid Item */}
           <div
@@ -90,7 +90,7 @@ const Works = () => {
             style={{ backgroundImage: `url(${code})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
-            {/* Hover Effects */}
+           
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
                 Sample Typescript application
@@ -102,7 +102,7 @@ const Works = () => {
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/phadnisanand/webpack_typescript' target="_blank">
+                <a href='https://github.com/phadnisanand/	k_typescript' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
