@@ -145,12 +145,12 @@ const Works = () => {
               </span>
               <p className='text-center'>React Application</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://hospital-react.onrender.com' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://hospital-react.onrender.com'>
+                <a href='https://github.com/phadnisanand/hospital_react' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
