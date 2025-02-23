@@ -68,8 +68,8 @@ const Works = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
-              <span className='text-lg font-bold text-white tracking-wider'> Shopping Cart application React</span>
-              <p className='text-center'>React Demo</p>
+              <span className='text-lg font-bold text-white tracking-wider'>React Demo</span>
+              <p className='text-center'>Shopping Cart application React</p>
               <div className='pt-8 text-center'>
                 <a href='https://react-shopping-cart-lime-three.vercel.app/' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
