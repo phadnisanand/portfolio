@@ -69,11 +69,11 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Sample Es6 application
+                Shopping Cart application using React
               </span>
-              <p className='text-center'>A Sample web application built with ES6</p>
+              <p className='text-center'>React Demo</p>
               <div className='pt-8 text-center'>
-                <a href='https://es6demo.netlify.app/' target="_blank">
+                <a href='https://react-shopping-cart-lime-three.vercel.app/' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
@@ -90,7 +90,7 @@ const Works = () => {
             style={{ backgroundImage: `url(${code})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
-           
+
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
                 Sample Typescript application
@@ -158,7 +158,7 @@ const Works = () => {
               </div>
             </div>
           </div>
-          
+
         </div>
       </div>
     </div>
