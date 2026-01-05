@@ -15,7 +15,7 @@ const Home = () => {
           I'm a Full Stack Web Developer
         </strong>
         <p className="text-gray-500 py-4 max-w-md">
-           I have 13 years of experience in web development. I have worked across various PHP MVC frameworks. I have also worked in CMS/Open Sources like WordPress, Drupal, Opencart etc.
+           I have 14.5+ years of experience in web development. I have worked across various PHP MVC frameworks. I have also worked in CMS/Open Sources like WordPress, Drupal, Opencart etc.
            Having experience in frontend web development skills like Html, Css, Javascript, Angular, React JS etc and cloud service AWS.
         </p>
         <div>
